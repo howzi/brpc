@@ -1,0 +1,14 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "ab09e946e6878d21d5d93dcf04e8e18f915e829c",
+  "prompts": {},
+  "humans": {
+    "h_39f867eb6e7523": {
+      "author": "sunhao.inf <sunhao.inf@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
